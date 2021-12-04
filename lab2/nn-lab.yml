@@ -1,0 +1,19 @@
+name: nn-lab
+dependencies:
+  - gensim
+  - imbalanced-learn
+  - ipykernel
+  - joblib
+  - matplotlib
+  - nltk
+  - nodejs
+  - numpy
+  - pandas
+  - pip
+  - python=3.7
+  - scikit-learn
+  - scipy
+  - seaborn
+  - somoclu
+  - tabulate
+  - tqdm
