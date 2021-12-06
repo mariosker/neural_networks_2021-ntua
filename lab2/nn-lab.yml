@@ -10,10 +10,13 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - python=3.7
+  - pip:
+      - somoclu
+  - python
   - scikit-learn
   - scipy
   - seaborn
-  - somoclu
+  - spacy[cuda]
   - tabulate
   - tqdm
+  - xlrd
